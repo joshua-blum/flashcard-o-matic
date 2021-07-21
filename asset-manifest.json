@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/github.io/flashcard-o-matic/static/js/main.c89f8150.chunk.js",
+    "main.js.map": "/github.io/flashcard-o-matic/static/js/main.c89f8150.chunk.js.map",
+    "runtime-main.js": "/github.io/flashcard-o-matic/static/js/runtime-main.86bbbe2f.js",
+    "runtime-main.js.map": "/github.io/flashcard-o-matic/static/js/runtime-main.86bbbe2f.js.map",
+    "static/js/2.dbeb1093.chunk.js": "/github.io/flashcard-o-matic/static/js/2.dbeb1093.chunk.js",
+    "static/js/2.dbeb1093.chunk.js.map": "/github.io/flashcard-o-matic/static/js/2.dbeb1093.chunk.js.map",
+    "index.html": "/github.io/flashcard-o-matic/index.html",
+    "static/js/2.dbeb1093.chunk.js.LICENSE.txt": "/github.io/flashcard-o-matic/static/js/2.dbeb1093.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86bbbe2f.js",
+    "static/js/2.dbeb1093.chunk.js",
+    "static/js/main.c89f8150.chunk.js"
+  ]
+}
